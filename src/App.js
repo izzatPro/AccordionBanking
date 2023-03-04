@@ -1,9 +1,9 @@
 import "./App.scss";
-
+import Faq from './components/faq/Faq'
 function App() {
   return (
     <div>
-      <h1>Hellossdsds sdWos!!!</h1>
+      <Faq></Faq>
     </div>
   );
 }
